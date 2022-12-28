@@ -1,0 +1,23 @@
+{
+  "name": "pure-react",
+  "version": "1.0.0",
+  "description": "streamlined react source code.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/19Qingfeng/pure-react.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/19Qingfeng/pure-react/issues"
+  },
+  "homepage": "https://github.com/19Qingfeng/pure-react#readme",
+  "devDependencies": {
+    "eslint": "^8.30.0"
+  }
+}
